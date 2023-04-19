@@ -44,4 +44,6 @@
 <SubTexture name="Character0041" x="4086" y="5538" width="624" height="810" frameX="-368" frameY="-155" frameWidth="1215" frameHeight="1097" />
 <SubTexture name="Character0042" x="0" y="6460" width="950" height="929" frameX="-187" frameY="-61" frameWidth="1215" frameHeight="1097" />
 <SubTexture name="Character0043" x="950" y="6460" width="1029" height="662" frameX="-8" frameY="-174" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="Character0044" x="1979" y="6460" width="620" height="685" frameX="-344" frameY="-233" frameWidth="1215" frameHeight="1097" />
+<SubTexture name="Character0045" x="2599" y="6460" width="735" height="629" frameX="-263" frameY="-282" frameWidth="1215" frameHeight="1097" />
 </TextureAtlas>
