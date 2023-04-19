@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="portraits.png">
+<SubTexture name="amongboy0000" x="0" y="0" width="221" height="206" frameX="-5" frameY="-14" frameWidth="199" frameHeight="197" />
+<SubTexture name="bfairship0000" x="221" y="0" width="204" height="204" frameX="-4" frameY="-4" frameWidth="173" frameHeight="173" />
+<SubTexture name="bfg0000" x="425" y="0" width="204" height="210" frameX="-18" frameY="-12" frameWidth="201" frameHeight="201" />
+<SubTexture name="bfmira0000" x="629" y="0" width="204" height="206" frameX="-10" frameY="-8" frameWidth="185" frameHeight="185" />
+<SubTexture name="bfpolus0000" x="833" y="0" width="204" height="205" frameX="-6" frameY="-6" frameWidth="177" frameHeight="177" />
+<SubTexture name="bfsauce0000" x="0" y="210" width="210" height="236" frameX="-40" frameY="-10" frameWidth="244" frameHeight="244" />
+<SubTexture name="blackp0000" x="210" y="210" width="208" height="243" frameX="-38" frameY="-9" frameWidth="249" frameHeight="255" />
+<SubTexture name="crab0000" x="418" y="210" width="204" height="204" frameX="-18" frameY="-18" frameWidth="201" frameHeight="201" />
+<SubTexture name="dog0000" x="622" y="210" width="204" height="204" frameX="-18" frameY="-18" frameWidth="201" frameHeight="201" />
+<SubTexture name="dripbf0000" x="826" y="210" width="204" height="207" frameX="-12" frameY="-9" frameWidth="189" frameHeight="191" />
+<SubTexture name="elliepet0000" x="0" y="453" width="204" height="204" frameX="-18" frameY="-18" frameWidth="201" frameHeight="201" />
+<SubTexture name="frankendog0000" x="204" y="453" width="204" height="204" frameX="-18" frameY="-18" frameWidth="201" frameHeight="201" />
+<SubTexture name="gfmira0000" x="408" y="453" width="204" height="204" frameX="-4" frameY="-4" frameWidth="173" frameHeight="173" />
+<SubTexture name="gfpolus0000" x="612" y="453" width="204" height="212" frameX="-18" frameY="-10" frameWidth="201" frameHeight="201" />
+<SubTexture name="ghostgf0000" x="816" y="453" width="204" height="213" frameX="-10" frameY="-6" frameWidth="185" frameHeight="190" />
+<SubTexture name="greenp0000" x="0" y="666" width="288" height="207" frameX="-74" frameY="-76" frameWidth="334" frameHeight="323" />
+<SubTexture name="ham0000" x="288" y="666" width="204" height="204" frameX="-18" frameY="-18" frameWidth="201" frameHeight="201" />
+<SubTexture name="hamster0000" x="492" y="666" width="204" height="204" frameX="-18" frameY="-18" frameWidth="201" frameHeight="201" />
+<SubTexture name="henrygf0000" x="696" y="666" width="204" height="207" frameX="-18" frameY="-15" frameWidth="201" frameHeight="201" />
+<SubTexture name="minicrewmate0000" x="900" y="666" width="204" height="204" frameX="-18" frameY="-18" frameWidth="201" frameHeight="201" />
+<SubTexture name="redp0000" x="0" y="873" width="237" height="204" frameX="-2" frameY="-18" frameWidth="201" frameHeight="201" />
+<SubTexture name="snowball0000" x="237" y="873" width="204" height="204" frameX="-18" frameY="-18" frameWidth="201" frameHeight="201" />
+<SubTexture name="stick-bf0000" x="441" y="873" width="204" height="212" frameX="-18" frameY="-10" frameWidth="201" frameHeight="201" />
+<SubTexture name="stickmin0000" x="645" y="873" width="204" height="204" frameX="-18" frameY="-18" frameWidth="201" frameHeight="201" />
+<SubTexture name="tomong0000" x="849" y="873" width="204" height="204" frameX="-18" frameY="-18" frameWidth="201" frameHeight="201" />
+<SubTexture name="ufo0000" x="0" y="1085" width="204" height="204" frameX="-18" frameY="-18" frameWidth="201" frameHeight="201" />
+<SubTexture name="whitep0000" x="428" y="1085" width="294" height="210" frameX="-77" frameY="-69" frameWidth="334" frameHeight="323" />
+<SubTexture name="pinkp0000" x="204" y="1085" width="224" height="218" frameX="-10" frameY="-4" frameWidth="201" frameHeight="201" />
+<SubTexture name="picolobby0000" x="722" y="1085" width="194" height="198" frameX="-11" frameY="-3" frameWidth="173" frameHeight="173" />
+<SubTexture name="mungusp0000" x="916" y="1085" width="236" height="175" frameX="0" frameY="-7" frameWidth="201" frameHeight="201" />
+<SubTexture name="eggous0000" x="0" y="1303" width="204" height="204" frameX="-18" frameY="-18" frameWidth="201" frameHeight="201" />
+</TextureAtlas>

@@ -1,0 +1,28 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				104
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"flip_x": false,
+	"image": "pets/eggous",
+	"healthbar_colors": [
+		255,
+		92,
+		41
+	],
+	"position": [
+		285,
+		790
+	],
+	"scale": 1
+}
